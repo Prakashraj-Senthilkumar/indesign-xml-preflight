@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title style="article-title">Sample journal article</article-title>
+      </title-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title style="sec-title">Introduction</title>
+      <p style="p">Body text ready for InDesign import.</p>
+    </sec>
+  </body>
+</article>
